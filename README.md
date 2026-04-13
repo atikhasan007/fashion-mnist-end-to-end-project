@@ -63,13 +63,13 @@ fashion-mnist-classifier
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/fashion-mnist-classifier.git
+git clone https://github.com/atikhasan007/fashion-mnist-end-to-end-project.git
 ```
 
 Go to the project directory:
 
 ```bash
-cd fashion-mnist-classifier
+cd fashion-mnist-end-to-end-project
 ```
 
 Install dependencies:
